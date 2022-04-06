@@ -1,0 +1,1 @@
+# aula_cloud_terraform_azure
